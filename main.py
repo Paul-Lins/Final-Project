@@ -1,3 +1,9 @@
+'''
+11/28/23
+
+A program to track calories burned depending on the activity. Includes profiles for multiple users, which can be logged in and out of, and a way to enter and retrieve the data from said profiles
+'''
+
 #imports the file that controls the profiles
 import person_profile
 #imports os, which is used to check for txt files in order to determine if a user already has a profile

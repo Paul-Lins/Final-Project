@@ -1,9 +1,4 @@
-'''
-11/28/23
-
-A program to track calories burned depending on the activity. Includes profiles for multiple users, which can be logged in and out of, and a way to enter and retrieve the data from said profiles
-'''
-
+#imports the formula file
 import formulas
 
 class person_profile():
