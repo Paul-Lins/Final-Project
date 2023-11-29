@@ -1,8 +1,0 @@
-Day,Activity,Time,Difficulty
-1,Running,00:40:23,E
-2,Swimming,00:32:15,M
-3,Biking,01:12:37,M
-4,Swimming,00:25:04,H
-5,Running,00:48:51,E
-6,Running,01:02:10,M
-7,Biking,00:51:27,H

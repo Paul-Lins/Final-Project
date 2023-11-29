@@ -1,0 +1,9 @@
+John 70 
+Activity Time Difficulty
+Running 00:40:23 E
+Swimming 00:32:15 M
+Biking 01:12:37 M
+Swimming 00:25:04 H
+Running 00:48:51 E
+Running 01:02:10 M
+Biking 00:51:27 H
